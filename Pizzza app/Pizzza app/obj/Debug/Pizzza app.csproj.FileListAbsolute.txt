@@ -1,0 +1,17 @@
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\bin\Debug\Pizzza app.exe.config
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\bin\Debug\Pizzza app.exe
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\bin\Debug\Pizzza app.pdb
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.csproj.AssemblyReference.cache
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Checkout page.g.cs
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\MainWindow.g.cs
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\App.g.cs
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app_MarkupCompile.cache
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app_MarkupCompile.lref
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Checkout page.baml
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\MainWindow.baml
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.g.resources
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza_app.Properties.Resources.resources
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.csproj.GenerateResource.cache
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.csproj.CoreCompileInputs.cache
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.exe
+C:\Users\Rikke\Documents\c#\Pizzza app\Pizzza app\obj\Debug\Pizzza app.pdb
